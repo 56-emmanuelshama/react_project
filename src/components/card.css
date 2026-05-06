@@ -1,0 +1,12 @@
+
+
+.card  img{
+    max-width: 24%;
+    background-color: aqua;
+    
+}
+.cards {
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 35px;
+}
